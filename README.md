@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Social Networking React App for Pets
+This project is a social networking app for pets that allows users to view a pets profile, see pets' friends and also view pets' friend profile
 
 ## Available Scripts
 
